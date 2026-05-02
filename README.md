@@ -3,13 +3,13 @@
 An AI-driven framework for cross-border semiconductor industry monitoring. 
 
 ## 🎯 The Problem
-The semiconductor industry is hyper-competitive, and global data is fragmented across languages (Korean, Chinese, Dutch, etc.). [cite_start]Standard search tools often miss local industry-specific events and policy updates[cite: 5, 13].
+The semiconductor industry is hyper-competitive, and global data is fragmented across languages (Korean, Chinese, Dutch, etc.). Standard search tools often miss local industry-specific events and policy updates.
 
 ## 🛠 Features
-- [cite_start]**Model-Agnostic Architecture:** Supports any LLM via LangChain (default: Local Llama3)[cite: 29].
-- [cite_start]**Country-Native Agents:** Automatically translates queries to native languages for better coverage.
-- [cite_start]**Privacy First:** Designed to run locally using Ollama and Brave Search APIs.
-- [cite_start]**Multi-Modal Support:** Capable of indexing text, video titles, and audio transcriptions[cite: 14].
+- **Model-Agnostic Architecture:** Supports any LLM via LangChain (default: Local Llama3).
+- **Country-Native Agents:** Automatically translates queries to native languages for better coverage.
+- **Privacy First:** Designed to run locally using Ollama and Brave Search APIs.
+- **Multi-Modal Support:** Capable of indexing text, video titles, and audio transcriptions.
 
 ## 🚦 How to Run
 1. Clone the repo.
